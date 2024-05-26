@@ -1,85 +1,64 @@
-<h1 align="center">
-  <img width="300px" src=".github/assets/corteza_logo.svg" />
-  <br />
-  <br />
-  <abbr>Freedom. Flexibility. Performance. Speed.</abbr>
-  <br />
-  <br />
-  <div align="center">
-
-  [![License Card](https://img.shields.io/github/license/cortezaproject/corteza?style=for-the-badge)](https://img.shields.io/github/license/cortezaproject/corteza?style=for-the-badge)
-  [![DockerHub Downloads Card](https://img.shields.io/docker/pulls/cortezaproject/corteza?style=for-the-badge)](https://img.shields.io/docker/pulls/cortezaproject/corteza?style=for-the-badge)
-  [![Latest Version Card](https://img.shields.io/github/v/release/cortezaproject/corteza?label=stable%20version&style=for-the-badge)](https://img.shields.io/github/v/release/cortezaproject/corteza?label=stable%20version&style=for-the-badge)
-
-  [![Go Report Card](https://goreportcard.com/badge/github.com/cortezaproject/corteza?style=for-the-badge)](https://goreportcard.com/report/github.com/cortezaproject/corteza?style=for-the-badge)
-  [![CodeCov Report Card](https://img.shields.io/codecov/c/github/cortezaproject/corteza-server?style=for-the-badge)](https://img.shields.io/codecov/c/github/cortezaproject/corteza-server?style=for-the-badge)
-
-  [![Community](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.cortezaproject.org%2F&style=for-the-badge)](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.cortezaproject.org%2F&style=for-the-badge)
-
-
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/cortezaproject/corteza/blob/2023.9.x/.github/assets/corteza_logo.svg"><img width="300px" src="/cortezaproject/corteza/raw/2023.9.x/.github/assets/corteza_logo.svg" style="max-width: 100%;"></a>
+  <br>
+  <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  自由。 灵活性。 性能。 速度。
+  </font></font><br>
+  <br>
+  <div align="center" dir="auto">
+<p dir="auto"><a href="https://img.shields.io/github/license/cortezaproject/corteza?style=for-the-badge" rel="nofollow"><img src="https://camo.githubusercontent.com/20ecc6db53944a11155222d6c19dc5d2ef81d4beda06ecebd422cf56d0807dc5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f636f7274657a6170726f6a6563742f636f7274657a613f7374796c653d666f722d7468652d6261646765" alt="执照卡" data-canonical-src="https://img.shields.io/github/license/cortezaproject/corteza?style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://img.shields.io/docker/pulls/cortezaproject/corteza?style=for-the-badge" rel="nofollow"><img src="https://camo.githubusercontent.com/016f29c80ce588781d31e6283a807bf184a72b7eda636765ddb10955fe52248a/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f636f7274657a6170726f6a6563742f636f7274657a613f7374796c653d666f722d7468652d6261646765" alt="DockerHub 下载卡" data-canonical-src="https://img.shields.io/docker/pulls/cortezaproject/corteza?style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://img.shields.io/github/v/release/cortezaproject/corteza?label=stable%20version&amp;style=for-the-badge" rel="nofollow"><img src="https://camo.githubusercontent.com/1f8070913a05a9f1c7f2686cded23e5c9cd447af354bee6e2b55c7988147420c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f636f7274657a6170726f6a6563742f636f7274657a613f6c6162656c3d737461626c6525323076657273696f6e267374796c653d666f722d7468652d6261646765" alt="最新版本卡" data-canonical-src="https://img.shields.io/github/v/release/cortezaproject/corteza?label=stable%20version&amp;style=for-the-badge" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://goreportcard.com/report/github.com/cortezaproject/corteza?style=for-the-badge" rel="nofollow"><img src="https://camo.githubusercontent.com/6ba5fa4102a9e907e0794a8c7870e878efd6b468b833909c322ec0f259d2f4b8/68747470733a2f2f676f7265706f7274636172642e636f6d2f62616467652f6769746875622e636f6d2f636f7274657a6170726f6a6563742f636f7274657a613f7374796c653d666f722d7468652d6261646765" alt="围棋成绩单" data-canonical-src="https://goreportcard.com/badge/github.com/cortezaproject/corteza?style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://img.shields.io/codecov/c/github/cortezaproject/corteza-server?style=for-the-badge" rel="nofollow"><img src="https://camo.githubusercontent.com/3a8e6419b94162d083e62358453bcd67c1b8d228f18db6d703b66bc73eec7182/68747470733a2f2f696d672e736869656c64732e696f2f636f6465636f762f632f6769746875622f636f7274657a6170726f6a6563742f636f7274657a612d7365727665723f7374796c653d666f722d7468652d6261646765" alt="CodeCov 成绩单" data-canonical-src="https://img.shields.io/codecov/c/github/cortezaproject/corteza-server?style=for-the-badge" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.cortezaproject.org%2F&amp;style=for-the-badge" rel="nofollow"><img src="https://camo.githubusercontent.com/4e8c588c9c6dc51af037db105caea518f82af43ce1298e4af5c0b7375d1b15cc/68747470733a2f2f696d672e736869656c64732e696f2f646973636f757273652f746f706963733f7365727665723d6874747073253341253246253246666f72756d2e636f7274657a6170726f6a6563742e6f7267253246267374796c653d666f722d7468652d6261646765" alt="社区" data-canonical-src="https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.cortezaproject.org%2F&amp;style=for-the-badge" style="max-width: 100%;"></a></p>
   </div>
-</h1>
-
-The Corteza low-code platform lets you build and iterate CRM, business process and other structured data apps fast, create intelligent business process workflows and connect with almost any data source.
-All with the flexibility, freedom and control you get from a 100% open-source platform written on modern technologies maintained by [Planet Crust](https://www.planetcrust.com/), its founder.
-
-<div align="center">
-  <img src=".github/assets/hero-animation.webp">
+</h1><a id="user-content---------freedom-flexibility-performance-speed--------" class="anchor" aria-label="永久链接：自由。灵活性。性能。速度。" href="#--------freedom-flexibility-performance-speed--------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corteza 低代码平台可让您快速构建和迭代 CRM、业务流程和其他结构化数据应用程序，创建智能业务流程工作流并连接几乎所有数据源。所有这些都具有灵活性、自由度和控制力，您可以使用由其</font><font style="vertical-align: inherit;">创始人</font></font><a href="https://www.planetcrust.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Planet Crust维护的基于现代技术编写的 100% 开源平台获得这些功能。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/cortezaproject/corteza/blob/2023.9.x/.github/assets/hero-animation.webp"><img src="/cortezaproject/corteza/raw/2023.9.x/.github/assets/hero-animation.webp" style="max-width: 100%;"></a>
 </div>
-
-## Key Features
-
-* **Standards oriented** by using well established data formats, technologies, and design decisions.
-* **Flexible security** provided as a flattened RBAC facility allows organizations to apply complex internal security policies to Corteza.
-* **Extensive privacy features** provide a way for organizations to configure Corteza to conform to data privacy regulations in the regions they are operating in.
-* **Accessible** conforming to the WCAG 2.1 guidelines allowing simple use for a wider audience.
-* **Integratable** into and with external services and other Corteza instances due to it's API-centric design, flexible data storage layer, and powerful automation facilities.
-* **Customizable** from translations and terminology to prebuilt low-code applications to completely new low-code applications and business processes.
-
-## Getting Started
-
-<br />
-
-> **Note**
-> Planet Crust offers hosted [Corteza cloud instances](https://www.planetcrust.com/start-trial-lp-main) as the easiest way to get started.
-
-<br />
-
-Refer to the [DevOps guide](https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/index.html) for a complete guide on how to get Corteza up and running.
-Additionally, we've provided some [video instructions](https://forum.cortezaproject.org/t/videos-on-how-to-set-up-corteza/91).
-
-Quick references:
-* [data backup and restore](https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/maintenance/backups.html)
-* [troubleshooting](https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/troubleshooting/index.html)
-* [setting up an email relay](https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/email-relay.html)
-* [setting up sink routes](https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/sink-route.html)
-* [offline](https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/examples/deploy-offline/index.html) and [online](https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/examples/deploy-online/index.html) configuration examples
-* [online demo instance](https://latest.cortezaproject.org/) for a hands-on feature exploration
-
-## Creating With Corteza
-
-Refer to the [Integrator Guide](https://docs.cortezaproject.org/corteza-docs/2022.9/integrator-guide/index.html) to learn how you can build on the core features to create virtually anything.
-
-Quick references:
-* [Corteza Compose configuration](https://docs.cortezaproject.org/corteza-docs/2022.9/integrator-guide/compose-configuration/index.html)
-* automation using [workflows](https://docs.cortezaproject.org/corteza-docs/2022.9/integrator-guide/automation/workflows/index.html) and [automation scripts](https://docs.cortezaproject.org/corteza-docs/2022.9/integrator-guide/automation/automation-scripts/index.html)
-* [using the REST API](https://docs.cortezaproject.org/corteza-docs/2022.9/integrator-guide/accessing-corteza/index.html),
-
-## Upgrading Corteza
-
-Refer to the [changelog](https://docs.cortezaproject.org/corteza-docs/2022.9/changelog/index.html) and the [upgrade guide](https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/upgrade/index.html) to upgrade your Corteza instance.
-
-## Contributing
-
-Refer to the [Developer Guide/Corteza Server](https://docs.cortezaproject.org/corteza-docs/2022.9/developer-guide/corteza-server/index.html) document for details regarding the [development setup](https://docs.cortezaproject.org/corteza-docs/2022.9/developer-guide/corteza-server/index.html#_development_setup), the [project structure](https://docs.cortezaproject.org/corteza-docs/2022.9/developer-guide/corteza-server/structure.html), and the feature insight documents.
-
-Refer to the [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines and code of conduct.
-
-## Community
-
-Reach out to us on [our forum](https://forum.cortezaproject.org/).
-
-## License
-
-Corteza is released under the Apache-2.0 license.
-Refer to the [LICENSE](LICENSE) file for additional information.
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主要特征</font></font></h2><a id="user-content-key-features" class="anchor" aria-label="固定链接：主要特点" href="#key-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过使用完善的数据格式、技术和设计决策</font><strong><font style="vertical-align: inherit;">来导向标准。</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作为扁平化的 RBAC 设施提供的灵活安全性</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">允许组织将复杂的内部安全策略应用于 Corteza。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">广泛的隐私功能</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为组织提供了一种配置 Corteza 的方法，以符合其所在地区的数据隐私法规。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">符合 WCAG 2.1 指南，可供更广泛的受众简单使用</font><strong><font style="vertical-align: inherit;">。</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">由于其以 API 为中心的设计、灵活的数据存储层和强大的自动化设施，因此可以与外部服务和其他 Corteza 实例</font><strong><font style="vertical-align: inherit;">集成。</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从翻译和术语到预构建的低代码应用程序，再到全新的低代码应用程序和业务流程，</font><strong><font style="vertical-align: inherit;">均可定制。</font></strong></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接：入门" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<br>
+<blockquote>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+Planet Crust 提供托管的</font></font><a href="https://www.planetcrust.com/start-trial-lp-main" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corteza 云实例</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作为最简单的入门方式。</font></font></p>
+</blockquote>
+<br>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DevOps 指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，获取有关如何启动和运行 Corteza 的完整指南。此外，我们还提供了一些</font></font><a href="https://forum.cortezaproject.org/t/videos-on-how-to-set-up-corteza/91" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频说明</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速参考：</font></font></p>
+<ul dir="auto">
+<li><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/maintenance/backups.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据备份和恢复</font></font></a></li>
+<li><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/troubleshooting/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">故障排除</font></font></a></li>
+<li><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/email-relay.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置电子邮件中继</font></font></a></li>
+<li><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/sink-route.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置接收路线</font></font></a></li>
+<li><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/examples/deploy-offline/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离线</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/examples/deploy-online/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在线</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置示例</font></font></li>
+<li><a href="https://latest.cortezaproject.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在线演示实例</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，供您亲身体验功能探索</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Corteza 进行创作</font></font></h2><a id="user-content-creating-with-corteza" class="anchor" aria-label="永久链接：使用 Corteza 进行创作" href="#creating-with-corteza"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/integrator-guide/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">集成商指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，了解如何在核心功能的基础上创建几乎任何东西。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速参考：</font></font></p>
+<ul dir="auto">
+<li><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/integrator-guide/compose-configuration/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corteza Compose 配置</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用</font></font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/integrator-guide/automation/workflows/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工作流</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/integrator-guide/automation/automation-scripts/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动化脚本实现自动化</font></font></a></li>
+<li><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/integrator-guide/accessing-corteza/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 REST API</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">升级Corteza</font></font></h2><a id="user-content-upgrading-corteza" class="anchor" aria-label="永久链接：升级 Corteza" href="#upgrading-corteza"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/changelog/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更改日志</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/devops-guide/upgrade/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">升级指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来升级您的 Corteza 实例。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关</font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/developer-guide/corteza-server/index.html#_development_setup" rel="nofollow"><font style="vertical-align: inherit;">开发设置</font></a><font style="vertical-align: inherit;">、</font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/developer-guide/corteza-server/structure.html" rel="nofollow"><font style="vertical-align: inherit;">项目结构</font></a><font style="vertical-align: inherit;">和功能洞察文档的详细信息，</font><font style="vertical-align: inherit;">请参阅</font></font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/developer-guide/corteza-server/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发人员指南/Corteza 服务器文档。</font></font></a><font style="vertical-align: inherit;"></font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/developer-guide/corteza-server/index.html#_development_setup" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font><a href="https://docs.cortezaproject.org/corteza-docs/2022.9/developer-guide/corteza-server/structure.html" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="/cortezaproject/corteza/blob/2023.9.x/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CONTRIBUTING.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解贡献指南和行为准则。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区</font></font></h2><a id="user-content-community" class="anchor" aria-label="固定链接：社区" href="#community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://forum.cortezaproject.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过我们的论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与我们联系</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corteza 是根据 Apache-2.0 许可证发布的。请参阅</font></font><a href="/cortezaproject/corteza/blob/2023.9.x/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LICENSE</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件以获取更多信息。</font></font></p>
+</article></div>
